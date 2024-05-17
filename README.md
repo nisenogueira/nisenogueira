@@ -5,8 +5,6 @@ Meu nome é Lenise Nogueira e sou uma estudante de back-end em transição de ca
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=DAA520)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=0066FF)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)
 ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
