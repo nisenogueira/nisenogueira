@@ -1,6 +1,7 @@
 # 👋 Oi, eu sou Lenise!
 
-Meu nome é Lenise Nogueira e sou uma estudante de back-end em transição de carreira. Desde muito jovem, sempre fui apaixonada por tecnologia e jogos. Iniciei minha jornada na programação com a linguagem Python, na qual hoje possuo um nível intermediário de conhecimento e continuo em constante aprendizado. Além do meu interesse pela tecnologia, estou sempre em busca de expandir meus conhecimentos em outras áreas relacionadas à programação.
+  Sou estudante de back-end em transição de carreira. Desde pequena sempre fui apaixonada por tecnologia e jogos. Iniciei minha jornada na programação com a linguagem Python, na qual hoje possuo um nível intermediário de conhecimento e continuo em constante aprendizado.
+  Além do meu interesse pela tecnologia, estou sempre em busca de expandir meus conhecimentos em outras áreas relacionadas à programação.
 
 
 ## 💻 Skills
