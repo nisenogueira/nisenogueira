@@ -9,6 +9,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)
 ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Amazon AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ## Github Stats
