@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou Lenise!
 
-  Sou estudante de back-end em transição de carreira. Desde pequena sempre fui apaixonada por tecnologia e jogos. Iniciei minha jornada na programação com a linguagem Python, na qual hoje possuo um nível intermediário de conhecimento e continuo em constante aprendizado.
+  Sou analista de dados (em formação) em transição de carreira. Desde pequena sempre fui apaixonada por tecnologia e jogos. Iniciei minha jornada na programação com a linguagem Python, na qual hoje possuo um nível intermediário de conhecimento e continuo em constante aprendizado.
   Além do meu interesse pela tecnologia, estou sempre em busca de expandir meus conhecimentos em outras áreas relacionadas à programação.
 
 
@@ -11,7 +11,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Amazon AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
+ni
 ## Github Stats
 
 [![nisenogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisenogueira&theme=dracula&hide=prs&show_icons=True&hide_title=True)](https://github.com/nisenogueira/github-readme-stats)
